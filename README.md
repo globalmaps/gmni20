@@ -9,4 +9,4 @@ Credit: "Global Map of Nicaragua © ISCGM / INETER"
 
 Contact: INETER
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/nicaragua.png)
+E-mail: ![email](email.png)
